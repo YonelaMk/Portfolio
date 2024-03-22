@@ -1,0 +1,70 @@
+.menu {
+    display: flex;
+  }
+  h2 {
+    font-display: block;
+    color: whitesmoke;
+    text-align: center;
+    font: 1.5em sans-serif;
+  }
+  h1 {
+    font-display: block;
+    color: pink;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    font: sans-serif;
+    color:whitesmoke;
+    font-size: large;
+  }
+  body {
+    background: url(https://i.pinimg.com/736x/1a/e3/f6/1ae3f640985bcadaec54dcebae69f7f8.jpg);
+  }
+  
+  .menu a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  
+    transition: background-color 0.3s ease;
+  }
+  
+  .menu a:hover {
+    background-color: #e0e0e0;
+  }
+  .about {
+    display: flex;
+  }
+  
+  .about a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .about a:hover {
+    background-color: #e0e0e0;
+  }
+  .work a:hover {
+    background-color: #e0e0e0;
+  }
+  .profile-image {
+    width: 800px; 
+    height: auto; 
+    margin: 50px; 
+    box-shadow: #e0e0e0;
+}
+
+  
