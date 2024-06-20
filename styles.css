@@ -19,7 +19,7 @@
     font-size: large;
   }
   body {
-    background: url(https://i.pinimg.com/736x/1a/e3/f6/1ae3f640985bcadaec54dcebae69f7f8.jpg);
+    background: url(https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?cs=srgb&dl=pexels-neo-853421-2653362.jpg&fm=jpg);
   }
   
   .menu a {
@@ -37,7 +37,7 @@
   
   .menu a:hover {
     background-color: #e0e0e0;
-  }
+  }ss
   .about {
     display: flex;
   }
